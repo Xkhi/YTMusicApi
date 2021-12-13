@@ -1,3 +1,4 @@
 headers_auth.json
 song_list.csv
-ytmusic/
+ytmusic*
+.idea/
